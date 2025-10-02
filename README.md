@@ -1,4 +1,4 @@
-# Elevate Labs - Task 7: Support Vector Machine (SVM) Classification ⚕️
+# Elevate Labs - Task 7: Support Vector Machine (SVM) Classification
 
 ### **Objective**
 The goal was to implement and compare two different kernel functions within the **Support Vector Machine (SVM)** algorithm: the **Linear Kernel** and the **RBF (Radial Basis Function) Kernel**, using the Breast Cancer dataset.
